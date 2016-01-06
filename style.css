@@ -1,0 +1,11 @@
+a {
+  text-decoration: none;
+  color: DarkSlateGray;
+  font-weight: bold;
+}
+#navmenue {
+  list-style: none;
+}
+.navitems {
+  margin: 10px;
+}

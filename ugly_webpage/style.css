@@ -1,0 +1,21 @@
+a {
+  text-decoration: underline;
+  color: inherit;
+  font-weight: bolder;
+}
+#navmenue {
+  list-style: circle;
+}
+body {
+  font-family: cursive;,sans-serif;
+  font-size: 32px;
+}
+#para1 {
+  font-weight: lighter;
+  font-weight: "Raleway",monospace;
+
+}
+a {
+  background-color: inherit;
+  color: #FF0000
+}

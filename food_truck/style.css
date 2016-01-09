@@ -1,0 +1,31 @@
+body {
+  background-color: maroon;
+  color: white;
+  font-family:,sans-serif;
+  font-size: 32px;
+}
+#rightSidebar {
+  width: 200px;
+  box-sizing: border-box;
+  float: left;
+}
+nav {
+  width: 25;
+  padding:15px;
+  margin:10px;
+  box-sizing: border-box;
+  float: left;
+  font-family: sans-serif;
+}
+#wrapper {
+  width:867px;
+  margin:auto;
+}
+#header {
+width: 800px;
+float: left;
+
+}
+#topbar {
+	height:40px; padding:55px 25px 0 25px;
+}

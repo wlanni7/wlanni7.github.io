@@ -1,0 +1,30 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<title>Bootstrap Demo</title>
+<meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewpoint" content="width-device-width, initial-scale">
+
+<link href="css/bootstrap.min.css" rel="sylesheet">
+
+</head>
+
+<body>
+	<div class="container">
+
+	<h1>Hello Bootstrap!!!</h1>
+	<p class="lead">
+	<p class="lead text-primary">
+	<div class="row">
+		<div class="col-md-8 col-md-offset-2">
+</row>
+
+	</div>
+
+<script src="https://ajax.googleleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+
+<script src="js/bootstrap.min.js"></script>
+
+</body>
+</html>
